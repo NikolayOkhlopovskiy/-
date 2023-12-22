@@ -10,6 +10,7 @@ namespace CompPract12
     {
         static void Main(string[] args)
         {
+                    //Компьютерный практикум по информатике №12
             // Задача #1
             //Random x = new Random();
             //int num = x.Next(1, 7);
